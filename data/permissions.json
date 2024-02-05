@@ -10,13 +10,13 @@
       "Essentials",
       "afk",
       "essentials.afk.message",
-      "Allow access to settings an afk message."
+      "Allow access to editing an afk message."
     ],
     [
       "Essentials",
       "afk",
       "essentials.afk.others",
-      "Allows you to AFK other players."
+      "Allows you to force other players to go AFK."
     ],
     [
       "Essentials",
@@ -28,7 +28,7 @@
       "Essentials",
       "afk",
       "essentials.afk.kickexempt",
-      "Exempts the user from being auto kicked for AFK"
+      "Exempts the user from being auto kicked for being AFK"
     ],
     [
       "Essentials",
@@ -46,7 +46,7 @@
       "Essentials",
       "back",
       "essentials.back.ondeath",
-      "Give this permission to allow players to use /back to go to their death spot"
+      "Players with this permission can use /back to go to their death location"
     ],
     [
       "Essentials",
@@ -208,19 +208,19 @@
       "Essentials",
       "clearinventory",
       "essentials.clearinventory.all",
-      "Allows a player to clear all players inventories."
+      "Allows a player to clear the inventory of all players."
     ],
     [
       "Essentials",
       "clearinventory",
       "essentials.clearinventory.multiple",
-      "Allow clearing inventory of multiple people at once"
+      "Allows a player to clear the inventory of multiple players at once"
     ],
     [
       "Essentials",
       "clearinventory",
       "essentials.clearinventory.others",
-      "Allows you to clear other player's inventory"
+      "Allows you to clear another player's inventory"
     ],
     [
       "Essentials",
@@ -238,7 +238,7 @@
       "Essentials",
       null,
       "essentials.commandcooldowns.bypass.<commandname>",
-      "Allow to bypass a specific command cooldown"
+      "Allow to bypass the cooldown of a specific command"
     ],    
     [
       "Essentials",
